@@ -7,4 +7,4 @@ This code was written to pull all the available Python jobs in a text file.
 
 ## Subheader
 
-This was a practice session to get used to with python syntaxs
+This was a practice session to get used to with python syntax
